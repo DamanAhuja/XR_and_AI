@@ -18,7 +18,6 @@ flowchart TD
     E --> F[Pass JSON to AutoLISP Script]
     F --> G[Use Pre-made CAD Blocks]
     G --> H[Generate 3D Model]
-    H --> I[Digital Twin Ready Model]
 ```
 
 ------------------------------------------------------------------------
